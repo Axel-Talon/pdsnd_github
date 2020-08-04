@@ -120,7 +120,7 @@ restart = 'y'
 while restart == 'y':
     while True:
         try:
-            city = input("Please enter city for which you would like to explore data.\nNew York City, Chicago, or Washington: ")
+            city = input("Please enter city for which you would like to explore data.\nNew York City, Chicago, or Washington: ").lower()
             city_items = ["New York City","Washington","Chicago"]
             city_items.index(city)
             if city == "New York City":
