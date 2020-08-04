@@ -15,3 +15,6 @@ Project allows user to explore information about 3 different Bike sharing scheme
 ### Credits
 [mastering_markdown](https://guides.github.com/features/mastering-markdown/)
 [emoji_cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+### Author
+by **Axel Talon**
