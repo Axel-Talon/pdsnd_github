@@ -18,3 +18,6 @@ Project allows user to explore information about 3 different Bike sharing scheme
 
 ### Author
 by **Axel Talon**
+
+### Progamming Language used
+_Python_
