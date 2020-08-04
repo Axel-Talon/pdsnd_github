@@ -121,10 +121,10 @@ while restart == 'y':
     while True:
         try:
             city = input("Please enter city for which you would like to explore data.\nNew York City, Chicago, or Washington: ").lower()
-            city_items = ["New York City","Washington","Chicago"]
+            city_items = ["new york city","washington","chicago"]
             city_items.index(city)
-            if city == "New York City":
-                city = "New_York_City"
+            if city == "new york city":
+                city = "new_york_city"
             break
         except:
             print("That is not a valid city. Please try again")
